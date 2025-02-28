@@ -1,7 +1,3 @@
-//imports
-import javax.swing.*;
-import java.awt.*;
-
 //Class for all game objects - abstract means it cannot be constructred on its own
 public abstract class GameObject {
     //cordinates of game object
